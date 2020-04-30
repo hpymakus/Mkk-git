@@ -1,0 +1,29 @@
+$ git log
+commit c7aa7d1df43410e221f87c58d28e843cd88b3880 (HEAD -> master)
+Author: hpymakus <kushwaha.manoj1@gmail.com>
+Date:   Thu Apr 30 22:48:22 2020 +0530
+
+    adding alll files
+
+commit b74c95daacfc5d3f29e78ea5af3900b6895a5b6e
+Author: hpymakus <kushwaha.manoj1@gmail.com>
+Date:   Thu Apr 30 22:44:45 2020 +0530
+
+    test file mkk
+
+commit 66e460dd4f92f7a3b87bcb188b38c4268b2761f3 (origin/master)
+Author: Manoj Kushwaha <59833828+hpymakus@users.noreply.github.com>
+Date:   Thu Apr 30 21:07:53 2020 +0530
+
+    Update README.md
+
+commit eba16fdfb7b5ad9b368e4ae6247f1d23ad91a0ff
+Author: hpymakus <59833828+hpymakus@users.noreply.github.com>
+Date:   Mon Jan 13 19:58:27 2020 +0530
+
+    Initial commit
+
+user@user-PC MINGW32 /c/git-demo (master)
+$
+
+
